@@ -19,19 +19,8 @@
 
 // Использование //
 
-1. Клонируйте репозиторий:
-    
-    git clone https://github.com/xxphlora/team_3_html_fragmentation.git
-    cd team_3_html_fragmentation
-    
-
-2. Скомпилируйте проект:
-    
-    gcc -o split_msg split_msg.c msg_split.c
-    
-
-3. Запустите приложение:
-    
-    ./split_msg --max-len=3072 ./test-1.html
+cd путь\к\папке\где\находятся\файлы\запуска
+gcc -o splitter main.c html.c
+splitter --max-len=<длина> input.html
 
 
