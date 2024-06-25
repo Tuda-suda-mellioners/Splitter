@@ -1,0 +1,7 @@
+﻿  htm.cpp
+  main.c
+  split_HTML.c
+  Создание кода...
+C:\Users\Администратор\source\repos\htm\htm\split_HTML.c(26,28): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\source\repos\htm\htm\split_HTML.c(44,24): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  htm.vcxproj -> C:\Users\Администратор\source\repos\htm\htm\x64\Debug\htm.exe
