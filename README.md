@@ -20,7 +20,7 @@ YouTrack:  https://nechaevad.youtrack.cloud/projects/c3d20df7-e7f5-4037-9776-b27
 
 // Использование //
 
-cd ...Splitter\htm\htm
+cd ...\Splitter\htm\htm
 
 gcc -o splitter main.c split_HTML.c
 
