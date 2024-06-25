@@ -22,7 +22,7 @@ YouTrack:  https://nechaevad.youtrack.cloud/projects/c3d20df7-e7f5-4037-9776-b27
 
 cd путь\к\папке\где\находятся\файлы\запуска
 
-gcc -o splitter main.c html.c
+gcc -o splitter main.c split_HTML.c
 
 splitter --max-len=<длина> input.html
 
