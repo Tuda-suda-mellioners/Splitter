@@ -20,6 +20,7 @@
 // Использование //
 
 cd путь\к\папке\где\находятся\файлы\запуска
+
 gcc -o splitter main.c html.c
 splitter --max-len=<длина> input.html
 
